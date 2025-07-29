@@ -1,6 +1,6 @@
 %global astal_commit 2c5eb54f39e1710c6e2c80915a240978beb3269a
 %global astal_shortcommit %(c=%{astal_commit}; echo ${c:0:7})
-%global bumpver 10
+%global bumpver 11
 
 %global _vpath_srcdir lib/astal/gtk3
 
